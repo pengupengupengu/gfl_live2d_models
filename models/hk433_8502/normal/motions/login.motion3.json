@@ -5,9 +5,9 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
-    "CurveCount": 135,
-    "TotalSegmentCount": 16807,
-    "TotalPointCount": 16807,
+    "CurveCount": 131,
+    "TotalSegmentCount": 16805,
+    "TotalPointCount": 16805,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -2394,6 +2394,12 @@
       "Id": "ParamBeiJingKaiGuan",
       "Segments": [
         0,
+        0,
+        2,
+        0.033,
+        -30,
+        2,
+        8.5,
         0,
         2,
         8.967,
@@ -11764,7 +11770,7 @@
         9.461,
         2,
         7.367,
-        9.366,
+        9.365,
         2,
         7.4,
         9.255,
@@ -22218,72 +22224,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamRuYao2X",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2Y",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYaoA1X",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYaoA1Y",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2aX",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2aY",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Paramshux",
       "Segments": [
         0,
@@ -24739,6 +24679,28 @@
         2,
         8.933,
         -0.001,
+        2,
+        8.967,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRuYao2X",
+      "Segments": [
+        0,
+        0,
+        2,
+        8.967,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRuYao2Y",
+      "Segments": [
+        0,
+        0,
         2,
         8.967,
         0

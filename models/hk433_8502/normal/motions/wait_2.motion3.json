@@ -5,9 +5,9 @@
     "Fps": 30.0,
     "Loop": true,
     "AreBeziersRestricted": true,
-    "CurveCount": 135,
-    "TotalSegmentCount": 14594,
-    "TotalPointCount": 14594,
+    "CurveCount": 131,
+    "TotalSegmentCount": 14590,
+    "TotalPointCount": 14590,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -18273,72 +18273,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamRuYao2X",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2Y",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYaoA1X",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYaoA1Y",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2aX",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
-      "Id": "ParamRuYao2aY",
-      "Segments": [
-        0,
-        0,
-        2,
-        8.967,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "Paramshux",
       "Segments": [
         0,
@@ -19981,6 +19915,28 @@
     {
       "Target": "Parameter",
       "Id": "ParamRuYao1Y",
+      "Segments": [
+        0,
+        0,
+        2,
+        8.967,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRuYao2X",
+      "Segments": [
+        0,
+        0,
+        2,
+        8.967,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamRuYao2Y",
       "Segments": [
         0,
         0,

@@ -6,8 +6,8 @@
     "Loop": true,
     "AreBeziersRestricted": true,
     "CurveCount": 128,
-    "TotalSegmentCount": 985,
-    "TotalPointCount": 1429,
+    "TotalSegmentCount": 982,
+    "TotalPointCount": 1426,
     "UserDataCount": 1,
     "TotalUserDataSize": 0
   },
@@ -3131,26 +3131,6 @@
     },
     {
       "Target": "Parameter",
-      "Id": "ParamWY",
-      "Segments": [
-        0,
-        0,
-        2,
-        0.867,
-        0,
-        0,
-        2.5,
-        4.127,
-        2,
-        12.033,
-        4.127,
-        0,
-        14,
-        0
-      ]
-    },
-    {
-      "Target": "Parameter",
       "Id": "ParamOpaishakeX",
       "Segments": [
         0,
@@ -4824,6 +4804,17 @@
     {
       "Target": "Parameter",
       "Id": "ParamWX",
+      "Segments": [
+        0,
+        0,
+        0,
+        14,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamWY",
       "Segments": [
         0,
         0,
