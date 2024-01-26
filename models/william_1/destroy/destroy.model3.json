@@ -1,0 +1,63 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "destroy.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/combo1.motion3.json"
+        },
+        {
+          "File": "motions/combo2.motion3.json"
+        },
+        {
+          "File": "motions/combo3.motion3.json"
+        },
+        {
+          "File": "motions/daiji1.motion3.json"
+        },
+        {
+          "File": "motions/daiji2.motion3.json"
+        },
+        {
+          "File": "motions/daiji3.motion3.json"
+        },
+        {
+          "File": "motions/daiji4.motion3.json"
+        },
+        {
+          "File": "motions/daiji7.motion3.json"
+        },
+        {
+          "File": "motions/hit1.motion3.json"
+        },
+        {
+          "File": "motions/hit2.motion3.json"
+        },
+        {
+          "File": "motions/hit3.motion3.json"
+        },
+        {
+          "File": "motions/hit4.motion3.json"
+        },
+        {
+          "File": "motions/hit5.motion3.json"
+        },
+        {
+          "File": "motions/hit6.motion3.json"
+        },
+        {
+          "File": "motions/hit7.motion3.json"
+        },
+        {
+          "File": "motions/hit8.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

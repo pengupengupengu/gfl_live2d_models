@@ -1,0 +1,51 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "normal.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "": [
+        {
+          "File": "motions/combo1.motion3.json"
+        },
+        {
+          "File": "motions/combo2.motion3.json"
+        },
+        {
+          "File": "motions/combo3.motion3.json"
+        },
+        {
+          "File": "motions/daiji.motion3.json"
+        },
+        {
+          "File": "motions/daiji_2.motion3.json"
+        },
+        {
+          "File": "motions/hold_open.motion3.json"
+        },
+        {
+          "File": "motions/shoot1.motion3.json"
+        },
+        {
+          "File": "motions/shoot2.motion3.json"
+        },
+        {
+          "File": "motions/shoot3.motion3.json"
+        },
+        {
+          "File": "motions/taiqiang.motion3.json"
+        },
+        {
+          "File": "motions/taiqiang_daiji.motion3.json"
+        },
+        {
+          "File": "motions/taiqiang_daiji_2.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}
